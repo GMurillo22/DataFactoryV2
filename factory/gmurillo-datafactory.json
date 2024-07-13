@@ -1,0 +1,9 @@
+{
+	"name": "gmurillo-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19ea717e-e932-4f55-b6b3-13bdaece8c24",
+		"tenantId": "88b02ec7-a7d0-45ac-bed0-5bc798368371"
+	}
+}
